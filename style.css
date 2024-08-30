@@ -4,7 +4,8 @@
 }
 
 body {
-  font-family: consolas;
+  font-family: "Courier Prime", monospace;
+  font-size: 1rem;
   background: linear-gradient(#230650, #7597de);
 }
 
@@ -631,6 +632,7 @@ p {
   width: 300px;
   border: solid 1px rgb(88, 69, 112);
   box-shadow: 0 0 10px rgb(63, 47, 82);
+  font-family: "Kanit", sans-serif;
 }
 
 .content ul li a:hover {
